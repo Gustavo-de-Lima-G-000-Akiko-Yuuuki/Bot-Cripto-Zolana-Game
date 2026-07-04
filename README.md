@@ -63,6 +63,7 @@ Crie ou edite o arquivo `wallets.json` no diretório raiz do projeto para cadast
 > **Como pegar o Token de Sessão:** Ative o script `zenko_helper.user.js` no Tampermonkey, faça login no site oficial `https://play.zolana.gg` e copie o token interceptado que aparecerá no menu HUD flutuante no topo direito do navegador.
 
 ---
+<img width="1737" height="846" alt="image" src="https://github.com/user-attachments/assets/20af2d5a-0557-4e50-8838-42cca0a46405" />
 
 ## 🚀 Como Executar
 
