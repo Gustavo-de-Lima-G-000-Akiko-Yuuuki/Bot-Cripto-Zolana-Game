@@ -1,6 +1,6 @@
 # Zolana.gg / Zenko Auto-Farmer Bot & Suite 🚀
 
-![Zolana Auto-Farmer Bot Banner](github_image.png)
+![Zolana Auto-Farmer Bot Banner](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Bot-Cripto-Zolana-Game/blob/main/image.png?raw=true)
 
 Uma suíte de automação multithread e verificação criptográfica para o jogo Web3 **Zolana.gg (Zenko)** na blockchain Solana. Esta ferramenta foi construída com foco em resiliência de execução prolongada, latência mínima nas ações e evasão de heurísticas de detecção de sistemas anti-cheat (OpSec).
 
